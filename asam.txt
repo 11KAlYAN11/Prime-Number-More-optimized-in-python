@@ -1,1 +1,2 @@
 Asam .txt file added. 
+//Bugs was fixed in this bugfix branch. 
